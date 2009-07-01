@@ -10,3 +10,6 @@ Some of them are based on snippets in TextMate's Lisp bundle.
 
 All snippets by Bjørn Arild Mæland <bjorn.maeland at gmail.com>, unless
 otherwise stated.
+
+Shane Celis added the snippets `debug` and `dsetf` because he can
+never remember them.

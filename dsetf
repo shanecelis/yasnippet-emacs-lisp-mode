@@ -1,0 +1,7 @@
+# -*- mode: yasnippet -*-
+#name : dsetf
+# --
+(defsetf ${1:name} (${2:parameters}) (${3:store-variable})
+  "${4:Docstring}"
+  `(progn $0
+          ,$3))
